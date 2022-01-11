@@ -1,3 +1,6 @@
+server:
+    port: 7171
+
 spring:
     application:
       name: demoservice
